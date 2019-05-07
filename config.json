@@ -1,0 +1,10 @@
+{
+    "oauth" : {
+        "desc": "test token",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+    },
+    "slack": {
+        "desc": "test token",
+        "token": "xoxb-292423453456-JI8RvUPHPSv4UR6Sns75THU9"
+    }
+}
